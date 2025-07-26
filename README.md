@@ -3,8 +3,8 @@
 
 <p align="center">
 🎯 توسعه‌دهنده فرانت‌اند | عاشق Vue.js و Nuxt  
-🚀 علاقه‌مند به پروژه‌های ترکیبی با هوش مصنوعی و وردپرس  
-📍 مشهد 
+🚀 فعال در مسیر ترکیب خلاقیت طراحی و قدرت هوش مصنوعی در توسعه وب  
+📍 مشهد
 </p>
 
 ---
@@ -38,18 +38,3 @@
 - 💬 علاقه‌مند به یادگیری عمیق‌تر در زمینه هوش مصنوعی در فرانت‌اند
 - 🧠 در حال یادگیری مستمر و انجام پروژه‌های واقعی برای رشد سریع‌تر
 
-
-<!--
-**HamidrezaNamaeiDEV/HamidrezaNamaeiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
