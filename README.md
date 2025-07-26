@@ -28,7 +28,7 @@
 ---
 -->
 ### 📫 راه‌های ارتباطی با من:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](www.linkedin.com/in/hamidreza-namaei-moghadam-521085307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hamidreza-namaei-moghadam-521085307)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:namaei.dev@gmail.com)
 
 ---
