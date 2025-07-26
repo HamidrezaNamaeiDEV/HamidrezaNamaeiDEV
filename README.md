@@ -3,6 +3,7 @@
 <p align="center">
 🎯 Front-end Developer | Passionate about Vue.js & Nuxt  
 🚀 Exploring the intersection of creative design and AI-powered web development  
+🎓 Computer Engineering Student at Montazeri University of Mashhad
 📍 Based in Mashhad, Iran
 </p>
 
