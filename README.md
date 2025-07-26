@@ -1,15 +1,14 @@
-
-<h1 align="center">سلام 👋 من حمیدرضا نمائی مقدم هستم</h1>
+<h1 align="center">Hi 👋 I'm Hamidreza Namaei Moghadam</h1>
 
 <p align="center">
-🎯 توسعه‌دهنده فرانت‌اند | عاشق Vue.js و Nuxt  
-🚀 فعال در مسیر ترکیب خلاقیت طراحی و قدرت هوش مصنوعی در توسعه وب  
-📍 مشهد
+🎯 Front-end Developer | Passionate about Vue.js & Nuxt  
+🚀 Exploring the intersection of creative design and AI-powered web development  
+📍 Based in Mashhad, Iran
 </p>
 
 ---
 
-### 🛠 مهارت‌ها و تکنولوژی‌هایی که با آن‌ها کار می‌کنم:
+### 🛠 Technologies & Tools I Work With:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,21 +19,22 @@
 </p>
 
 ---
+
 <!--
 
-### 📈 آمار گیت‌هاب من:
+### 📈 My GitHub Stats:
 ![Hamidreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamidrezaNamaeiMoghadam&show_icons=true&theme=radical)
 
 ---
 -->
-### 📫 راه‌های ارتباطی با من:
+
+### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hamidreza-namaei-moghadam-521085307)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:namaei.dev@gmail.com)
 
 ---
 
-### ✨ درباره من:
-- 🎯 تمرکز فعلی: پروژه‌های Vue و Nuxt با طراحی جذاب
-- 💬 علاقه‌مند به یادگیری عمیق‌تر در زمینه هوش مصنوعی در فرانت‌اند
-- 🧠 در حال یادگیری مستمر و انجام پروژه‌های واقعی برای رشد سریع‌تر
-
+### ✨ About Me:
+- 🎯 Currently focused on building stunning interfaces with Vue and Nuxt  
+- 💬 Eager to dive deeper into how AI can enhance frontend experiences  
+- 🧠 Always learning and building real-world projects to accelerate my growth  
